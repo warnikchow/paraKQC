@@ -31,3 +31,15 @@ In python console,
 >>> fast_docu('하던 거 멈춰',cand)
 '굳이 그렇게까지 해야돼'
 ```
+
+## Reference
+If you find this dataset useful, please cite the following:
+```
+@inproceedings{cho2020discourse,
+  title={Discourse Component to Sentence (DC2S): An Efficient Human-Aided Construction of Paraphrase and Sentence Similarity Dataset},
+  author={Cho, Won Ik and Kim, Jong In and Moon, Young Ki and Kim, Nam Soo},
+  booktitle={Proceedings of The 12th Language Resources and Evaluation Conference},
+  pages={6819--6826},
+  year={2020}
+}
+```
