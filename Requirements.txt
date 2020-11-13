@@ -5,5 +5,5 @@ Keras==2.1.2
 numpy==1.14.3
 scikit-learn==0.19.1
 sklearn==0.0
-tensorflow==1.4.1
+tensorflow==2.3.1
 tensorflow-gpu==1.4.1
